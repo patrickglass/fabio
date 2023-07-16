@@ -12,7 +12,6 @@ require (
 	github.com/eapache/go-xerial-snappy v0.0.0-20180814174437-776d5712da21 // indirect
 	github.com/frankban/quicktest v1.11.1 // indirect
 	github.com/go-kit/kit v0.9.0
-	github.com/go-logfmt/logfmt v0.5.0 // indirect
 	github.com/gobwas/glob v0.0.0-20180208211842-19c076cdf202
 	github.com/hashicorp/consul/api v1.12.0
 	github.com/hashicorp/errwrap v1.1.0 // indirect
@@ -32,7 +31,7 @@ require (
 	github.com/pascaldekloe/goe v0.1.0
 	github.com/pierrec/lz4 v2.5.2+incompatible // indirect
 	github.com/pkg/profile v1.5.0
-	github.com/prometheus/client_golang v1.4.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0 // indirect
 	github.com/rogpeppe/fastuuid v1.2.0
 	github.com/sergi/go-diff v1.2.0
